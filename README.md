@@ -1,5 +1,6 @@
 # E-commerce_Data_Pipeline-Pricing_Analysis
 
+https://app.powerbi.com/Redirect?action=OpenReport&appId=ccac07f0-05a1-4cf5-b4e6-a4f104208353&reportObjectId=cbac72c5-2b29-4bb4-ba2a-8456d264bc6f&ctid=fd0853e9-4432-4693-8bd9-5cac61a80641&reportPage=61042cf049c302d54398&pbi_source=appShareLink&portalSessionId=d51a7ba8-940d-47af-8555-28b4fc4cd038
 
 ## 📌 Project Background
 
@@ -126,7 +127,7 @@ Overall, the project highlights the importance of **clean data pipelines and str
 8. Published report to Power BI Service  
 
 ---
-
+https://app.powerbi.com/Redirect?action=OpenReport&appId=ccac07f0-05a1-4cf5-b4e6-a4f104208353&reportObjectId=cbac72c5-2b29-4bb4-ba2a-8456d264bc6f&ctid=fd0853e9-4432-4693-8bd9-5cac61a80641&reportPage=61042cf049c302d54398&pbi_source=appShareLink&portalSessionId=d51a7ba8-940d-47af-8555-28b4fc4cd038
 ## 📊 Key Takeaway
 
 This project demonstrates that **cleaning and structuring data is as important as analysis itself**, and that meaningful insights depend on how well raw data is prepared and interpreted.
