@@ -17,6 +17,8 @@ The objective is to simulate a real-world scenario where raw retail data is proc
 
 This project demonstrates how raw retail data can be transformed into actionable insights through structured data engineering and visualization.
 
+<img width="1920" height="899" alt="Screenshot (1895)" src="https://github.com/user-attachments/assets/d2d953cb-fb38-48db-9c50-e38491cd8f3e" />
+
 The analysis reveals that **top-selling brands are not necessarily the ones offering the highest discounts**, indicating that factors such as brand value and product positioning play a critical role in sales performance.
 
 Additionally, a small number of brands dominate product variety, suggesting **market concentration**, while aggressive discounting is primarily observed among less dominant brands.
@@ -26,6 +28,8 @@ Overall, the project highlights the importance of **clean data pipelines and str
 ---
 
 ## 🔍 Key Insights
+
+<img width="1920" height="899" alt="Screenshot (1895)" src="https://github.com/user-attachments/assets/d2d953cb-fb38-48db-9c50-e38491cd8f3e" />
 
 ### 1. Top-Selling Brands Are Not Discount Leaders
 - Brands like **Armani Exchange (140K)** and **US Polo Association (135K)** lead in sales  
@@ -112,10 +116,16 @@ Overall, the project highlights the importance of **clean data pipelines and str
 ## ⚙️ Data Pipeline Overview
 
 1. Created Azure SQL Database and connected via SSMS  
+<img width="1920" height="915" alt="Screenshot (1884)" src="https://github.com/user-attachments/assets/ce55541c-2ce3-438d-95c2-2cacb5aea1b2" />
+
 2. Imported raw CSV data into database  
 3. Cleaned data using SQL:
+<img width="1920" height="907" alt="Screenshot (1889)" src="https://github.com/user-attachments/assets/4b7fe3b5-c885-4ec5-98ee-4705503a1cca" />
+
    - Removed special characters from price columns  
 4. Loaded data into Power BI  
+<img width="1920" height="965" alt="Screenshot (1890)" src="https://github.com/user-attachments/assets/627ec923-2e77-4d0d-a8b3-64b13097cfdb" />
+
 5. Performed transformations:
    - Handled missing values via imputation  
    - Converted data types  
